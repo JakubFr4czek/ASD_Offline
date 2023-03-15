@@ -36,4 +36,4 @@ def ceasar( s ):
 
 #print(ceasar("akontnoknonabcddcba"))
 # zmien all_tests na True zeby uruchomic wszystkie testy
-runtests( ceasar , all_tests = True )
+#runtests( ceasar , all_tests = True )
